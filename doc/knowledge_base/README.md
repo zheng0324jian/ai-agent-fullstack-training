@@ -1,7 +1,7 @@
 # Knowledge Base
 
 > 整理日期：2026-10-31
-> 更新日期：2026-11-03
+> 更新日期：2026-11-05
 > 说明：把课程学习中的问答整理为可独立查阅的知识条目。章节大纲与逐章问答见 `../chapter1/`。
 
 ## LLM
@@ -17,6 +17,12 @@
 | 主题 | 文件 | 摘要 |
 | --- | --- | --- |
 | Pydantic | [`pydantic.md`](./pydantic.md) | Python 数据校验与序列化；结构化输出、工具参数校验的基础 |
+
+## Observability
+
+| 主题 | 文件 | 摘要 |
+| --- | --- | --- |
+| Agent Trace | [`agent_trace.md`](./agent_trace.md) | 一次 Run 的完整执行轨迹；定位性能、成本、失败与恢复问题 |
 
 ## Database
 
