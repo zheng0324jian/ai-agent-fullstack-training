@@ -1,7 +1,7 @@
 # Knowledge Base
 
 > 整理日期：2026-10-31
-> 更新日期：2026-11-05
+> 更新日期：2026-11-06
 > 说明：把课程学习中的问答整理为可独立查阅的知识条目。章节大纲与逐章问答见 `../chapter1/`。
 
 ## LLM
@@ -17,6 +17,12 @@
 | 主题 | 文件 | 摘要 |
 | --- | --- | --- |
 | Pydantic | [`pydantic.md`](./pydantic.md) | Python 数据校验与序列化；结构化输出、工具参数校验的基础 |
+
+## Architecture
+
+| 主题 | 文件 | 摘要 |
+| --- | --- | --- |
+| LLM Gateway vs Agent Harness | [`llm_gateway_vs_agent_harness.md`](./llm_gateway_vs_agent_harness.md) | 模型访问层 vs 任务执行层；职责边界、协作关系与常见误解 |
 
 ## Observability
 
